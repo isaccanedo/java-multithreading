@@ -1,4 +1,9 @@
 package br.com.isaccanedo;
+
+/**
+ * @author Isac Canedo
+ */
+
 public class SynchDemo {
 
     public static void main(String[] args) {
